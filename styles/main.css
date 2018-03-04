@@ -1,0 +1,51 @@
+
+html {
+	background-color: white;
+	font-family: 'helvetica', sans-serif;
+	text-align: center;
+}
+
+/* About Page */
+
+.abouttxt {
+	color: grey;
+	min-width: 100px;
+	max-width: 500px;
+	padding-right: 50px;
+	float: right;
+	text-align: left;
+	display: inline block;
+}
+
+.aboutimg{
+	width: 500px;
+}
+
+/* Home Page */
+
+.homeimg{
+	width: 900px;
+	margin: 80px;
+	display: inline block;
+
+}
+/* Navigation */
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    color: #f2f2f2;
+    padding: 14px 12px;
+		text-decoration: none;
+    font-size: 18px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
