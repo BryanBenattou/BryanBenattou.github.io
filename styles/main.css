@@ -77,18 +77,20 @@ html {
 
 /* About Text */
 .abouttxt{
-	display: inline-block;
-	margin: 50px 200px 50px 200px;
+	margin: 50px 300px 50px 300px;
 	text-align: left;
 	line-height: 150%;
 }
 
 /* Portfolio Page */
 
-/* Portfolio Image */
-.portfolioimg{
+/* Portfolio Images */
+.portfolioimgs{
 	width: 500px;
 }
+
+.terrapintext
+
 
 /* Footer */
 /* Social Media Links */
